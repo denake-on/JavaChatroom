@@ -1,7 +1,5 @@
 This project implements the backend logic for a Java-based chatroom application. 
 
-A simple viedo for explaination is also uploaded, you can watch that viedo for more information.
-
 Key features include:
 
 User Authentication: Supports user registration, login, password validation, and secure logout functionality.
